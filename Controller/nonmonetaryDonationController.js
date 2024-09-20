@@ -1,4 +1,4 @@
-const nonmonetaryDonations = require("../Model/nonmonetaryMOdel")
+const nonmonetaryDonations = require("../Model/nonmonetaryModel")
 
 
 
